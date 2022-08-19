@@ -9,7 +9,7 @@ services:
     ports:
       - 27017:27017
   api:
-    container_name: auth-microservice-container
+    container_name: saggia-auth-container
     build: .
     restart: always
     environment:
