@@ -1,6 +1,6 @@
 {
-  "name": "clean-saggia-auth",
-  "version": "2.0.0",
+  "name": "saggia-auth",
+  "version": "2.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
